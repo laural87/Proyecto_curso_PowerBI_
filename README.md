@@ -10,9 +10,6 @@
 - 📊 Conocer la problemática de los datos
 - 📈 Manejar visualizaciones de datos
 
-**Nivel del ejercicio:** Intermedio  
-**Tiempo estimado:** 3 horas
-
 ## 🎯 Objetivo
 Fui contratado por DH Marketing Consultants para analizar datos del departamento de marketing y generar valor a través de un análisis detallado. Me enfoqué en organizar y visualizar los datos por fechas, campañas y productos.
 
