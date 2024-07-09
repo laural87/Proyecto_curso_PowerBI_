@@ -1,9 +1,9 @@
 # 📊 Proyecto Final de Análisis de Datos
 
-![Análisis de Datos](https://via.placeholder.com/800x400.png?text=An%C3%A1lisis+de+Datos+con+Power+BI)
 
 ## 🚀 Introducción
-¡Bienvenido a mi Proyecto Final de Análisis de Datos en Power BI para el curso de IBM SkillBuild! En este proyecto, manejé datos de marketing utilizando Power BI. 🎉
+¡Bienvenido a mi Proyecto Final del curso de **Análisis de Datos con Power BI** realizado en colaboración con [Datahack](https://www.datahack.es/cursos/curso-power-bi/) y [IBM SkillsBuild](https://skillsbuild.org)! 🚀 Durante este proyecto, aplicamos los conocimientos adquiridos para analizar datos de marketing utilizando Power BI.🎉
+
 
 ## 🛠️ Prerrequisitos
 - 📘 Comprender Power BI
@@ -33,9 +33,15 @@ Fui contratado por DH Marketing Consultants para analizar datos del departamento
   1. **Visión General de los Datos:** Una vista general de todo el conjunto de datos.
   2. **Análisis de Campañas:** Visualizaciones detalladas de las 5 campañas de marketing.
   3. **Análisis de Productos:** Insights de los diferentes productos.
-  4. **Hoja Oculta:** Utilizada para anotaciones y cálculos internos.
 
 ## 🗂️ Dataset
 - **Fuente:** [Kaggle Marketing Campaign Dataset](https://www.kaggle.com/datasets/rodsaldanha/arketingcampaign?resource=download)
 
-¡El proyecto fue un éxito y me divertí mucho analizando! 🎉📊
+¡El proyecto fue un éxito y DH Marketing Consultants pudo crear mejores campañas gracias a este análisis! 🎉📊
+
+## Agradecimientos
+Quiero expresar mi agradecimiento especial a:
+- **Datahack** por ofrecer este curso y proporcionar conocimientos fundamentales en Power BI.
+- **IBM SkillsBuild** por la colaboración y apoyo durante todo el curso.
+
+¡Gracias por ser parte de este emocionante viaje de aprendizaje! 🎉
